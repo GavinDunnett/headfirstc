@@ -1,4 +1,4 @@
-// crocks.c
+// rocks.c
 
 #include "stdio.h"
 
